@@ -1,0 +1,22 @@
+# Sanal ortam
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Geçici scriptler
+ekle_eda.py
+ekle_model.py
+duzelt_model.py
+kontrol.py
+
+# OS
+.DS_Store
+Thumbs.db
