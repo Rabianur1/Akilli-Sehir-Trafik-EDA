@@ -41,13 +41,13 @@ Akıllı-Sehir-Trafik-EDA/
 
 ## Veri Seti
 
-**Adı**    : METR-LA (Los Angeles Metropolitan Traffic Dataset) 
+**Adı**    : METR-LA (Los Angeles Metropolitan Traffic Dataset)  
 **Orijinal Kaynak** : [DCRNN GitHub — liyaguang/DCRNN](https://github.com/liyaguang/DCRNN)  
 **Kaggle Linki** : [Kaggle - METR-LA Dataset](https://www.kaggle.com/datasets/annnnguyen/metr-la-dataset)  
-**Lisans** : MIT License 
-**İçerik** : 207 sensör, 5 dakikalık aralıklar, Mart–Haziran 2012 
-**Boyut**  : 34.272 zaman adımı × 207 sensör 
-**Birim**  : mil/saat (mph) 
+**Lisans** : MIT License  
+**İçerik** : 207 sensör, 5 dakikalık aralıklar, Mart–Haziran 2012  
+**Boyut**  : 34.272 zaman adımı × 207 sensör  
+**Birim**  : mil/saat (mph)  
 
 ---
 
@@ -119,7 +119,7 @@ SORU3: En yoğun gün/saat? | **Perşembe 17:00** (42.2 mph), en hızlı **Cumar
 
 ---
 
-## 📝 Notlar
+## Notlar
 
 - `METR-LA.h5` dosyası eski pandas formatında kaydedildiğinden `pd.read_hdf()` yerine `h5py` kullanılmıştır.
 - `.venv/` klasörü Git'e dahil edilmemiştir. (`.gitignore` ile hariç tutulmuştur)
