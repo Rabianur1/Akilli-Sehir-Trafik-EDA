@@ -1,8 +1,8 @@
 # 🚦 Akıllı Şehir & Ulaşım: METR-LA Trafik Veri Analizi
 
-**Ad Soyad**   : Rabianur Becit 
-**Öğrenci No** : 1306230084
-**Ders**       : Veri Bilimi 
+**Ad Soyad**   : Rabianur Becit  
+**Öğrenci No** : 1306230084  
+**Ders**       : Veri Bilimi  
 
 ---
 
@@ -42,7 +42,8 @@ Akıllı-Sehir-Trafik-EDA/
 ## Veri Seti
 
 **Adı**    : METR-LA (Los Angeles Metropolitan Traffic Dataset) 
-**Kaynak** : [DCRNN GitHub — liyaguang/DCRNN](https://github.com/liyaguang/DCRNN) 
+**Orijinal Kaynak** : [DCRNN GitHub — liyaguang/DCRNN](https://github.com/liyaguang/DCRNN)  
+**Kaggle Linki** : [Kaggle - METR-LA Dataset](https://www.kaggle.com/datasets/annnnguyen/metr-la-dataset)  
 **Lisans** : MIT License 
 **İçerik** : 207 sensör, 5 dakikalık aralıklar, Mart–Haziran 2012 
 **Boyut**  : 34.272 zaman adımı × 207 sensör 
@@ -103,9 +104,9 @@ jupyter notebook metr_la_analiz.ipynb
 
 ## Araştırma Soruları ve Bulgular
 
-SORU1: Günlük trafik ritmi nasıl? | En yavaş saat **17:00** (46.5 mph), en hızlı **03:00** (54.7 mph) 
-SORU2: Hafta içi/sonu farkı? | Hafta sonu **+2.70 mph** daha hızlı 
-SORU3: En yoğun gün/saat? | **Perşembe 17:00** (42.2 mph), en hızlı **Cumartesi 01:00** (62.8 mph) 
+SORU1: Günlük trafik ritmi nasıl? | En yavaş saat **17:00** (46.5 mph), en hızlı **03:00** (54.7 mph)  
+SORU2: Hafta içi/sonu farkı? | Hafta sonu **+2.70 mph** daha hızlı  
+SORU3: En yoğun gün/saat? | **Perşembe 17:00** (42.2 mph), en hızlı **Cumartesi 01:00** (62.8 mph)  
 
 ---
 
