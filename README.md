@@ -83,7 +83,7 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook metr_la_analiz.ipynb
 ```
-> VS Code kullanıyorsan: `metr_la_analiz.ipynb` dosyasını aç, kernel olarak `.venv` seç, **Run All** yap.
+> VS Code kullanıyorsanız: `metr_la_analiz.ipynb` dosyasını açınız, kernel olarak `.venv` seçiniz, **Run All** yapınız.
 
 ---
 
