@@ -122,4 +122,3 @@ SORU3: En yoğun gün/saat? | **Perşembe 17:00** (42.2 mph), en hızlı **Cumar
 ## Notlar
 
 - `METR-LA.h5` dosyası eski pandas formatında kaydedildiğinden `pd.read_hdf()` yerine `h5py` kullanılmıştır.
-- `.venv/` klasörü Git'e dahil edilmemiştir. (`.gitignore` ile hariç tutulmuştur)
